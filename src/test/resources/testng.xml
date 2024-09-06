@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="ApiTestSuite" verbose="1">
+    <test name="ApiTests">
+        <classes>
+            <class name="com.ApisPaySkyTask.ApiTest"/>
+        </classes>
+    </test>
+</suite>
